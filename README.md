@@ -11,7 +11,7 @@
 
 <h2 align="left">A bit more about myself</h2>
 
-<p align="left">📚 Currently learning Cybersecurity & Cloud Operations.<br>🎯 Aiming for greatness.<br>🔍 Currently Seeking Fall 2025 Internships!</p>
+<p align="left">📚 Learning Cybersecurity & Cloud Operations.<br>🎯 Aiming for greatness.<br>🔍 Seeking Fall 2025 Internships!</p>
 
 ###
 
