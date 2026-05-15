@@ -1,5 +1,5 @@
 # <<Heey, I'm Sebastian!>>
-<br>FULL STACK DEVELOPMENT ◦ SPORT CLIMBING ENTHUSIAST ◦ CONSULTANT<br><br>💻 Software & Web Developer<br>🛠️ Currently working with Java, JavaScript, React, Spring Boot, and more!<br>📈 Exploring creative ways to merge tech, sports, and art.<br>
+<br>FULL STACK DEVELOPMENT ◦ CONSULTANT<br><br>💻 Software & Web Developer<br>🛠️ Currently working with Java, JavaScript, React, Spring Boot, and more!<br>📈 Exploring creative ways to merge tech, sports, and art.<br>
 
 <h2 align="left">A bit more about myself</h2>
 
