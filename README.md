@@ -1,9 +1,6 @@
 # <<Heey, I'm Sebastian!>>
-<br>FULL STACK DEVELOPMENT ◦ CONSULTANT<br><br>💻 Software & Web Developer<br>🛠️ Currently working with Java, JavaScript, React, Spring Boot, and more!<br>📈 Exploring creative ways to merge tech, sports, and art.<br>
-
-<h2 align="left">A bit more about myself</h2>
-
-<p align="left"> 📌 Halifax, NS<br> 📚 Learning Cybersecurity & Cloud Operations.<br>🎯 Aiming for greatness.<br>🎮 I love video games</p><br>
+<br>FULL STACK DEVELOPMENT ◦ CONSULTANT<br><br>💻 Software & Web Developer<br>🛠️ Currently working with Java, Python, JavaScript, and React<br>
+<p align="left"> 📌 Halifax, NS<br>
 
 
 # 💻 Tech Stack:
